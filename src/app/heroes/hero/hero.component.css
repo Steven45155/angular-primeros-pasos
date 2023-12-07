@@ -1,0 +1,13 @@
+h1{
+  size: 50px;
+  color: blue;
+}
+
+td{
+  color: red;
+}
+
+dd{
+  font-size: 2rem;
+  font-weight: bold;
+}
